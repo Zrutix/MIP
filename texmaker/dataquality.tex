@@ -1,6 +1,7 @@
-\documentclass[12pt,twoside,a4paper]{article}
+\documentclass[12pt,twocolumn,twoside,a4paper]{article}
 
 \usepackage[T1]{fontenc}
+\usepackage{amsfonts}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage{url} % príkaz \url na formátovanie URL
@@ -13,14 +14,12 @@
 
 \title{Ensuring Data Integrity and Reliability in Big Data: A Comprehensive Study on Data Quality Management Strategies\thanks{Semestrálny projekt v predmete Metódy inžinierskej práce, ak. rok 2023/24, vedenie: Mirwais Ahmadzai}}
 
-\author{Michal Zrutta\\[2pt]
-	{
+\author{Michal Zrutta \\[2pt]
 	{\small Slovenská technická univerzita v Bratislave}\\
 	{\small Fakulta informatiky a informačných technológií}\\
-	{\small \textt{xzrutta@stuba.sk}}
-	}
-\date{\small 10.october 2023} % upravte
-
+	{\small \texttt{xzrutta@stuba.sk}}
+}
+\date{\small 10. October 2023}
 \begin{document}
 
 \maketitle
@@ -33,8 +32,33 @@ quality. Consequently, the demand for realistic data sets, accurate and consiste
 overall data quality has become a pressing concern. The paper aims to investigate the challenges 
 related to testing in the context of Big Data adoption. It seeks to outline a testing strategy that can 
 effectively validate the high volume, velocity, and variety of information associated with Big Data.\cite{gudivada2015big}\cite{mittal2013trustworthiness}
-\includegraphics[scale=0.25]{../1_UUqMUEVRtKnx_mx0k1sf1Q.png}
-\end{abstract} 
+\begin{figure*}[htbp]
+  \centering
+  \begin{minipage}[b]{0.5\textwidth}
+   \centering
+    \includegraphics[width=\textwidth]{data1.png}
+    \caption{Toto je obrazok 1}
+    \label{fig:image1}
+  \end{minipage}
+  \begin{minipage}[b]{0.5\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{data2.png}
+    \caption{Toto je obrazok 2}
+    \label{fig:data2}
+  \end{minipage}
+\end{figure*}
+\end{abstract}
+\section{Úvod}
+
+Motivujte čitateľa a vysvetlite, o čom píšete. Úvod sa väčšinou nedelí na časti.
+
+Uveďte explicitne štruktúru článku. Tu je nejaký príklad.
+Základný problém, ktorý bol naznačený v úvode, je podrobnejšie vysvetlený v časti~\ref{nejaka}.
+Dôležité súvislosti sú uvedené v častiach~\ref{dolezita} a~\ref{dolezitejsia}.
+Záverečné poznámky prináša časť~\ref{zaver}.
+
+
+
 \bibliographystyle{abbrv}
 \bibliography{citations}
 \end{document}
