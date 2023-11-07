@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9.24) (preloaded format=pdflatex 2023.9.26)  17 OCT 2023 15:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9.24) (preloaded format=pdflatex 2023.9.26)  5 NOV 2023 21:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -211,10 +211,14 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip50
 )
-(C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
-LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 332.
-Package: cite 2015/02/27  v 5.5
+(C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 23
+.
+
+(C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
@@ -285,83 +289,59 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
 6.
 
-(C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
-File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+(C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-<data1.png, id=9, 1204.5pt x 632.3625pt>
-File: data1.png Graphic file (type png)
-<use data1.png>
-Package pdftex.def Info: data1.png  used on input line 39.
-(pdftex.def)             Requested size: 226.0pt x 118.64487pt.
-<data2.png, id=11, 560.8152pt x 468.3096pt>
-File: data2.png Graphic file (type png)
-<use data2.png>
-Package pdftex.def Info: data2.png  used on input line 45.
-(pdftex.def)             Requested size: 226.0pt x 188.7211pt.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 26
+.
 
-Underfull \hbox (badness 1748) in paragraph at lines 53--54
-\T1/cmr/m/n/12 Motivujte £i-tate©a a vysvetlite, o £om
+(C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+[1
+
+{C:/Users/posko/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/posk
+o/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+<Quality assesment process for Big Data.png, id=59, 663.98062pt x 593.96906pt>
+File: Quality assesment process for Big Data.png Graphic file (type png)
+<use Quality assesment process for Big Data.png>
+Package pdftex.def Info: Quality assesment process for Big Data.png  used on in
+put line 64.
+(pdftex.def)             Requested size: 276.00105pt x 246.9004pt.
+ [2] [3 <./Quality assesment process for Big Data.png>] (dataquality.bbl
+Overfull \hbox (19.93398pt too wide) has occurred while \output is active
+\T1/ptm/m/sl/10 3 PROPOSED METHODOLOGY FOR DATA QUALITY ASSURANCE IN BIG DATA \
+T1/ptm/m/n/10 4
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `nejaka' on page 1 undefined on input line 56.
-
-
-LaTeX Warning: Reference `dolezita' on page 1 undefined on input line 57.
-
-
-LaTeX Warning: Reference `dolezitejsia' on page 1 undefined on input line 57.
-
-
-LaTeX Warning: Reference `zaver' on page 1 undefined on input line 58.
-
-(dataquality.bbl) [1{C:/Users/posko/AppData/Local/MiKTeX/fonts/map/pdftex/pdfte
-x.map}
-
-
-] [2 <./data1.png> <./data2.png>] (dataquality.aux)
+[4]) [5] (dataquality.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `dataquality.out' has not changed.
-(rerunfilecheck)             Checksum: D5B5AC65C235E3687D6DFBA15056BE67;66.
+(rerunfilecheck)             Checksum: 0834231DD53EF982BB859DF52926B4B1;2055.
  ) 
 Here is how much of TeX's memory you used:
- 8873 strings out of 475248
- 138597 string characters out of 5757813
+ 8913 strings out of 475248
+ 139099 string characters out of 5757813
  1930785 words of memory out of 5000000
- 30279 multiletter control sequences out of 15000+600000
- 573828 words of font info for 76 fonts, out of 8000000 for 9000
+ 30274 multiletter control sequences out of 15000+600000
+ 602462 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,253b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl
-1200.pk> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecti1200.pk> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecbx1200.pk> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecrm1000.pk> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\tcrm0700.pk> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\posko\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\posko\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\posko\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\posko\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\posko\
-AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\
-posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk>
-Output written on dataquality.pdf (2 pages, 638360 bytes).
+ 75i,7n,79p,845b,522s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/posko/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.
+pfb><C:/Users/posko/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.
+pfb><C:/Users/posko/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.
+pfb><C:/Users/posko/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.
+pfb><C:/Users/posko/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a
+.pfb>
+Output written on dataquality.pdf (5 pages, 162230 bytes).
 PDF statistics:
- 322 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
- 19 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 134 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 78 words of extra memory for PDF output out of 10000 (max. 10000000)
 
