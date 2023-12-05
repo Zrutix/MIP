@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{What is realm Big Data?}{4}{0}{1}
+\beamer@sectionintoc {2}{Problem Statement}{5}{0}{2}
+\beamer@sectionintoc {3}{Quality assessment for big data}{6}{0}{3}
+\beamer@sectionintoc {4}{Methodology}{7}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{10}{0}{5}
