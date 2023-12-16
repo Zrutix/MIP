@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{anisetti2023assurance}
 M.~Anisetti, C.~A. Ardagna, and F.~Berto.
@@ -11,20 +11,77 @@ L.~Cai and Y.~Zhu.
   data era.
 \newblock {\em Data Science Journal}, 14, 05 2015.
 
+\bibitem{chen2014big}
+M.~Chen, S.~Mao, and Y.~Liu.
+\newblock Big data: A survey.
+\newblock {\em Mobile networks and applications}, 19:171--209, 2014.
+
+\bibitem{fanelli2023big}
+S.~Fanelli, L.~Pratici, F.~P. Salvatore, C.~C. Donelli, and A.~Zangrandi.
+\newblock Big data analysis for decision-making processes: challenges and
+  opportunities for the management of health-care organizations.
+\newblock {\em Management Research Review}, 46(3):369--389, 2023.
+
 \bibitem{gudivada2015big}
 V.~N. Gudivada, R.~Baeza-Yates, and V.~V. Raghavan.
 \newblock Big data: Promises and problems.
 \newblock {\em Computer}, 48(03):20--23, 2015.
+
+\bibitem{ji2020quality}
+S.~Ji, Q.~Li, W.~Cao, P.~Zhang, and H.~Muccini.
+\newblock Quality assurance technologies of big data applications: A systematic
+  literature review.
+\newblock {\em Applied Sciences}, 10(22):8052, 2020.
+
+\bibitem{lew2021pclean}
+A.~Lew, M.~Agrawal, D.~Sontag, and V.~Mansinghka.
+\newblock Pclean: Bayesian data cleaning at scale with domain-specific
+  probabilistic programming.
+\newblock In {\em International Conference on Artificial Intelligence and
+  Statistics}, pages 1927--1935. PMLR, 2021.
+
+\bibitem{mittal2013trustworthiness}
+A.~Mittal.
+\newblock Trustworthiness of big data.
+\newblock {\em International Journal of Computer Applications}, 80(9), 2013.
 
 \bibitem{6949519}
 D.~E. O'Leary.
 \newblock Embedding ai and crowdsourcing in the big data lake.
 \newblock {\em IEEE Intelligent Systems}, 29(5):70--73, 2014.
 
+\bibitem{6204995}
+F.~Sidi, P.~H. Shariat~Panahy, L.~S. Affendey, M.~A. Jabar, H.~Ibrahim, and
+  A.~Mustapha.
+\newblock Data quality: A survey of data quality dimensions.
+\newblock In {\em 2012 International Conference on Information Retrieval &
+  Knowledge Management}, pages 300--304, 2012.
+
 \bibitem{8605945}
 I.~Taleb, M.~A. Serhani, and R.~Dssouli.
 \newblock Big data quality assessment model for unstructured data.
 \newblock In {\em 2018 International Conference on Innovations in Information
   Technology (IIT)}, pages 69--74, 2018.
+
+\bibitem{8063921}
+J.~Yu, K.~Wang, P.~Li, R.~Xia, S.~Guo, and M.~Guo.
+\newblock Efficient trustworthiness management for malicious user detection in
+  big data collection.
+\newblock {\em IEEE Transactions on Big Data}, 8(1):99--112, 2022.
+
+\bibitem{zhu2021effects}
+R.~Zhu, J.~Hu, L.~He, L.~Zu, X.~Bao, Y.~Lai, and S.~Su.
+\newblock Effects of ambient temperature on regulated gaseous and particulate
+  emissions from gasoline-, e10-and m15-fueled vehicles.
+\newblock {\em Frontiers of Environmental Science \& Engineering}, 15:1--13,
+  2021.
+
+\bibitem{10165495}
+X.~Zuo.
+\newblock Research on data quality improvement program based on big data
+  application.
+\newblock In {\em 2023 IEEE 3rd International Conference on Information
+  Technology, Big Data and Artificial Intelligence (ICIBA)}, volume~3, pages
+  1742--1745, 2023.
 
 \end{thebibliography}

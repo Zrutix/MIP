@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9.24) (preloaded format=pdflatex 2023.9.26)  23 NOV 2023 09:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9.24) (preloaded format=pdflatex 2023.9.26)  16 DEC 2023 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,12 +23,20 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
+(C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count193
+\float@exts=\toks17
+\float@box=\box51
+\@float@everytoks=\toks18
+\@floatcapt=\box52
+)
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks17
+\@emptytoks=\toks19
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -37,15 +45,15 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 )
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks18
-\inpenc@posthook=\toks19
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
 )
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks20
+\KV@toks@=\toks22
 )
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
@@ -123,15 +131,15 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count193
+\c@section@level=\count194
 )
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count194
+\etb@tempcnta=\count195
 )
 \@linkdim=\dimen143
-\Hy@linkcounter=\count195
-\Hy@pagecounter=\count196
+\Hy@linkcounter=\count196
+\Hy@pagecounter=\count197
 
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
@@ -141,7 +149,7 @@ Now handling font encoding PD1 ...
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count197
+\Hy@SavedSpaceFactor=\count198
 
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
@@ -155,7 +163,7 @@ Package hyperref Info: Plain pages OFF on input line 4182.
 Package hyperref Info: Backreferencing OFF on input line 4187.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4434.
-\c@Hy@tempcnt=\count198
+\c@Hy@tempcnt=\count199
 LaTeX Info: Redefining \url on input line 4772.
 \XeTeXLinkMargin=\dimen144
 
@@ -167,7 +175,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count199
+\Fld@menulength=\count266
 \Field@Width=\dimen145
 \Fld@charsize=\dimen146
 Package hyperref Info: Hyper figures OFF on input line 6051.
@@ -182,9 +190,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6081.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count266
-\c@Item=\count267
-\c@Hfootnote=\count268
+\Hy@abspage=\count267
+\c@Item=\count268
+\c@Hfootnote=\count269
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -195,8 +203,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count269
-\c@bookmark@seq@number=\count270
+\Fld@listcount=\count270
+\c@bookmark@seq@number=\count271
 
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -219,51 +227,51 @@ Package: cite 2015/02/27  v 5.5
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip51
-\multirow@cntb=\count271
+\multirow@cntb=\count272
 \multirow@dima=\skip52
 \bigstrutjot=\dimen147
 )
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count272
-\l__pdf_internal_box=\box51
+\l__color_backend_stack_int=\count273
+\l__pdf_internal_box=\box53
 ) (dataquality.aux)
 \openout1 = `dataquality.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count273
+\scratchcounter=\count274
 \scratchdimen=\dimen148
-\scratchbox=\box52
-\nofMPsegments=\count274
-\nofMParguments=\count275
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count276
+\scratchbox=\box54
+\nofMPsegments=\count275
+\nofMParguments=\count276
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count277
 \MPscratchDim=\dimen149
-\MPnumerator=\count277
-\makeMPintoPDFobject=\count278
-\everyMPtoPDFconversion=\toks22
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
+\everyMPtoPDFconversion=\toks24
 )
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -275,25 +283,25 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 25.
+Package hyperref Info: Link coloring OFF on input line 26.
  (dataquality.out) (dataquality.out)
 \@outlinefile=\write3
 \openout3 = `dataquality.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
 
 
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
 
 
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-8.
+9.
 
 (C:\Users\posko\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
@@ -301,79 +309,87 @@ File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 [1
 
 {C:/Users/posko/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-Overfull \hbox (0.58218pt too wide) in paragraph at lines 58--58
-[]\T1/cmr/bx/n/12 Data Ac-cu-racy and Re-li-a-bil-ity Eval-u-a-tion for Big Dat
-a 
- []
-
-<Quality assesment process for Big Data.png, id=101, 663.98062pt x 593.96906pt>
+[3]
+<Quality assesment process for Big Data.png, id=136, 663.98062pt x 593.96906pt>
 
 File: Quality assesment process for Big Data.png Graphic file (type png)
 <use Quality assesment process for Big Data.png>
 Package pdftex.def Info: Quality assesment process for Big Data.png  used on in
-put line 63.
+put line 64.
 (pdftex.def)             Requested size: 276.00105pt x 246.9004pt.
-[3]
-Overfull \hbox (2.96628pt too wide) in paragraph at lines 72--72
+
+Overfull \hbox (2.96628pt too wide) in paragraph at lines 73--73
 []\T1/cmr/bx/n/12 Semantic In-tegrity Anal-y-sis for Un-struc-tured Big Data 
  []
 
-[4 <./Quality assesment process for Big Data.png>] [5]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 100.
-
-
-Overfull \hbox (30.94382pt too wide) in paragraph at lines 102--115
+[4 <./Quality assesment process for Big Data.png>] [5] [6] [7] [8]
+Overfull \hbox (21.4989pt too wide) in paragraph at lines 135--148
 [][] 
  []
 
+[9] [10]
+<Comparison.png, id=203, 564.60938pt x 338.76563pt>
+File: Comparison.png Graphic file (type png)
+<use Comparison.png>
+Package pdftex.def Info: Comparison.png  used on input line 186.
+(pdftex.def)             Requested size: 345.0pt x 207.00339pt.
+ [11 <./Comparison.png>] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 234--236
 
-LaTeX Warning: Float too large for page by 18.63058pt on input line 116.
+ []
 
-[6] [7] [8] [9] (dataquality.bbl) [10] (dataquality.aux)
+[13]
+Overfull \hbox (2.81784pt too wide) in paragraph at lines 237--238
+ []\T1/cmr/bx/n/10 Bachelor.[] \T1/cmr/m/n/10 In my opin-ion, a bach-e-lor's de
+-gree sig-ni-fies a com-pre-hen-sive achieve-
+ []
+
+(dataquality.bbl [14]
+! Misplaced alignment tab character &.
+l.57 ...onal Conference on Information Retrieval &
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+) [15] (dataquality.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-
-
-Package rerunfilecheck Warning: File `dataquality.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `dataquality.out':
-(rerunfilecheck)             Before: 81F143AEE23DECC4060943FC23210957;3819
-(rerunfilecheck)             After:  168678DFDE8C6051B93DDF8310AFB28A;3555.
+Package rerunfilecheck Info: File `dataquality.out' has not changed.
+(rerunfilecheck)             Checksum: 88FAD9DFC47EF3C2A0B4AD330EFAFEBC;3921.
  ) 
 Here is how much of TeX's memory you used:
- 9024 strings out of 475248
- 140940 string characters out of 5757813
- 1932785 words of memory out of 5000000
- 30370 multiletter control sequences out of 15000+600000
- 578149 words of font info for 88 fonts, out of 8000000 for 9000
+ 9136 strings out of 475248
+ 142645 string characters out of 5757813
+ 1929785 words of memory out of 5000000
+ 30456 multiletter control sequences out of 15000+600000
+ 578460 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,14n,79p,996b,524s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,14n,79p,921b,547s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti
 1000.pk> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecbx1000.pk> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\tcrm1000.pk> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecbx1200.pk> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\posko\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\posko\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\posko\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\posko\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\posko\
-AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\
-posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\
-Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk
-> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
-200.pk> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
-\ecrm1728.pk>
-Output written on dataquality.pdf (10 pages, 240893 bytes).
+/dpi600\ecbx1200.pk> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx1440.pk> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\posko\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\posko\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\posko\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\posko\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\posko\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\
+posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\
+Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk
+> <C:\Users\posko\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1
+728.pk>
+Output written on dataquality.pdf (15 pages, 302630 bytes).
 PDF statistics:
- 630 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
- 150 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 721 PDF objects out of 1000 (max. 8388607)
+ 75 named destinations out of 1000 (max. 500000)
+ 179 words of extra memory for PDF output out of 10000 (max. 10000000)
 
